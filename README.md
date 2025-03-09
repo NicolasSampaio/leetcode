@@ -18,7 +18,7 @@ O projeto está organizado da seguinte forma:
 1. Clone o repositório:
 
 ```bash
-git clone [URL do seu repositório]
+git clone https://github.com/NicolasSampaio/leetcode
 ```
 
 2. Instale as dependências:
@@ -31,6 +31,6 @@ npm install
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
----
+## 🔗 Meu Perfil do LeetCode
 
-⭐ Não se esqueça de deixar uma estrela se este repositório te ajudou!
+[Visite meu perfil](https://leetcode.com/u/NicolasSampaio/)
